@@ -1,0 +1,506 @@
+Layers= 10 NumNodes= 1 NumRepeats= 1
+correct 98
+incorrect 102
+Unique prediction: 183
+
+Layers= 10 NumNodes= 1 NumRepeats= 2
+correct 112
+incorrect 88
+Unique prediction: 185
+
+Layers= 10 NumNodes= 1 NumRepeats= 3
+correct 94
+incorrect 106
+Unique prediction: 191
+
+Layers= 10 NumNodes= 1 NumRepeats= 4
+correct 96
+incorrect 104
+Unique prediction: 193
+
+Layers= 10 NumNodes= 1 NumRepeats= 5
+correct 105
+incorrect 95
+Unique prediction: 190
+
+Layers= 10 NumNodes= 1 NumRepeats= 6
+correct 105
+incorrect 95
+Unique prediction: 188
+
+Layers= 10 NumNodes= 1 NumRepeats= 7
+correct 114
+incorrect 86
+Unique prediction: 186
+
+Layers= 10 NumNodes= 1 NumRepeats= 8
+correct 90
+incorrect 110
+Unique prediction: 186
+
+Layers= 10 NumNodes= 1 NumRepeats= 9
+correct 98
+incorrect 102
+Unique prediction: 189
+
+Layers= 10 NumNodes= 1 NumRepeats= 10
+correct 106
+incorrect 94
+Unique prediction: 188
+
+Layers= 10 NumNodes= 2 NumRepeats= 1
+correct 103
+incorrect 97
+Unique prediction: 189
+
+Layers= 10 NumNodes= 2 NumRepeats= 2
+correct 105
+incorrect 95
+Unique prediction: 188
+
+Layers= 10 NumNodes= 2 NumRepeats= 3
+correct 103
+incorrect 97
+Unique prediction: 190
+
+Layers= 10 NumNodes= 2 NumRepeats= 4
+correct 107
+incorrect 93
+Unique prediction: 193
+
+Layers= 10 NumNodes= 2 NumRepeats= 5
+correct 86
+incorrect 114
+Unique prediction: 193
+
+Layers= 10 NumNodes= 2 NumRepeats= 6
+correct 97
+incorrect 103
+Unique prediction: 192
+
+Layers= 10 NumNodes= 2 NumRepeats= 7
+correct 99
+incorrect 101
+Unique prediction: 186
+
+Layers= 10 NumNodes= 2 NumRepeats= 8
+correct 99
+incorrect 101
+Unique prediction: 191
+
+Layers= 10 NumNodes= 2 NumRepeats= 9
+correct 92
+incorrect 108
+Unique prediction: 189
+
+Layers= 10 NumNodes= 2 NumRepeats= 10
+correct 105
+incorrect 95
+Unique prediction: 187
+
+Layers= 10 NumNodes= 3 NumRepeats= 1
+correct 102
+incorrect 98
+Unique prediction: 184
+
+Layers= 10 NumNodes= 3 NumRepeats= 2
+correct 99
+incorrect 101
+Unique prediction: 191
+
+Layers= 10 NumNodes= 3 NumRepeats= 3
+correct 97
+incorrect 103
+Unique prediction: 190
+
+Layers= 10 NumNodes= 3 NumRepeats= 4
+correct 95
+incorrect 105
+Unique prediction: 189
+
+Layers= 10 NumNodes= 3 NumRepeats= 5
+correct 96
+incorrect 104
+Unique prediction: 193
+
+Layers= 10 NumNodes= 3 NumRepeats= 6
+correct 109
+incorrect 91
+Unique prediction: 193
+
+Layers= 10 NumNodes= 3 NumRepeats= 7
+correct 88
+incorrect 112
+Unique prediction: 191
+
+Layers= 10 NumNodes= 3 NumRepeats= 8
+correct 107
+incorrect 93
+Unique prediction: 193
+
+Layers= 10 NumNodes= 3 NumRepeats= 9
+correct 125
+incorrect 75
+Unique prediction: 190
+
+Layers= 10 NumNodes= 3 NumRepeats= 10
+correct 91
+incorrect 109
+Unique prediction: 187
+
+Layers= 10 NumNodes= 4 NumRepeats= 1
+correct 104
+incorrect 96
+Unique prediction: 164
+
+Layers= 10 NumNodes= 4 NumRepeats= 2
+correct 102
+incorrect 98
+Unique prediction: 173
+
+Layers= 10 NumNodes= 4 NumRepeats= 3
+correct 104
+incorrect 96
+Unique prediction: 167
+
+Layers= 10 NumNodes= 4 NumRepeats= 4
+correct 97
+incorrect 103
+Unique prediction: 175
+
+Layers= 10 NumNodes= 4 NumRepeats= 5
+correct 94
+incorrect 106
+Unique prediction: 178
+
+Layers= 10 NumNodes= 4 NumRepeats= 6
+correct 92
+incorrect 108
+Unique prediction: 182
+
+Layers= 10 NumNodes= 4 NumRepeats= 7
+correct 85
+incorrect 115
+Unique prediction: 177
+
+Layers= 10 NumNodes= 4 NumRepeats= 8
+correct 98
+incorrect 102
+Unique prediction: 179
+
+Layers= 10 NumNodes= 4 NumRepeats= 9
+correct 93
+incorrect 107
+Unique prediction: 170
+
+Layers= 10 NumNodes= 4 NumRepeats= 10
+correct 89
+incorrect 111
+Unique prediction: 179
+
+Layers= 10 NumNodes= 5 NumRepeats= 1
+correct 91
+incorrect 109
+Unique prediction: 149
+
+Layers= 10 NumNodes= 5 NumRepeats= 2
+correct 54
+incorrect 146
+Unique prediction: 97
+
+Layers= 10 NumNodes= 5 NumRepeats= 3
+correct 100
+incorrect 100
+Unique prediction: 149
+
+Layers= 10 NumNodes= 5 NumRepeats= 4
+correct 104
+incorrect 96
+Unique prediction: 106
+
+Layers= 10 NumNodes= 5 NumRepeats= 5
+correct 58
+incorrect 142
+Unique prediction: 99
+
+Layers= 10 NumNodes= 5 NumRepeats= 6
+correct 92
+incorrect 108
+Unique prediction: 122
+
+Layers= 10 NumNodes= 5 NumRepeats= 7
+correct 89
+incorrect 111
+Unique prediction: 79
+
+Layers= 10 NumNodes= 5 NumRepeats= 8
+correct 70
+incorrect 130
+Unique prediction: 129
+
+Layers= 10 NumNodes= 5 NumRepeats= 9
+correct 94
+incorrect 106
+Unique prediction: 112
+
+Layers= 10 NumNodes= 5 NumRepeats= 10
+correct 102
+incorrect 98
+Unique prediction: 64
+
+Layers= 10 NumNodes= 6 NumRepeats= 1
+correct 107
+incorrect 93
+Unique prediction: 75
+
+Layers= 10 NumNodes= 6 NumRepeats= 2
+correct 98
+incorrect 102
+Unique prediction: 80
+
+Layers= 10 NumNodes= 6 NumRepeats= 3
+correct 170
+incorrect 30
+Unique prediction: 55
+
+Layers= 10 NumNodes= 6 NumRepeats= 4
+correct 35
+incorrect 165
+Unique prediction: 50
+
+Layers= 10 NumNodes= 6 NumRepeats= 5
+correct 40
+incorrect 160
+Unique prediction: 16
+
+Layers= 10 NumNodes= 6 NumRepeats= 6
+correct 149
+incorrect 51
+Unique prediction: 40
+
+Layers= 10 NumNodes= 6 NumRepeats= 7
+correct 177
+incorrect 23
+Unique prediction: 42
+
+Layers= 10 NumNodes= 6 NumRepeats= 8
+correct 37
+incorrect 163
+Unique prediction: 53
+
+Layers= 10 NumNodes= 6 NumRepeats= 9
+correct 64
+incorrect 136
+Unique prediction: 44
+
+Layers= 10 NumNodes= 6 NumRepeats= 10
+correct 41
+incorrect 159
+Unique prediction: 16
+
+Layers= 10 NumNodes= 7 NumRepeats= 1
+correct 127
+incorrect 73
+Unique prediction: 17
+
+Layers= 10 NumNodes= 7 NumRepeats= 2
+correct 191
+incorrect 9
+Unique prediction: 9
+
+Layers= 10 NumNodes= 7 NumRepeats= 3
+correct 7
+incorrect 193
+Unique prediction: 31
+
+Layers= 10 NumNodes= 7 NumRepeats= 4
+correct 34
+incorrect 166
+Unique prediction: 16
+
+Layers= 10 NumNodes= 7 NumRepeats= 5
+correct 0
+incorrect 200
+Unique prediction: 9
+
+Layers= 10 NumNodes= 7 NumRepeats= 6
+correct 195
+incorrect 5
+Unique prediction: 13
+
+Layers= 10 NumNodes= 7 NumRepeats= 7
+correct 1
+incorrect 199
+Unique prediction: 10
+
+Layers= 10 NumNodes= 7 NumRepeats= 8
+correct 28
+incorrect 172
+Unique prediction: 28
+
+Layers= 10 NumNodes= 7 NumRepeats= 9
+correct 150
+incorrect 50
+Unique prediction: 16
+
+Layers= 10 NumNodes= 7 NumRepeats= 10
+correct 7
+incorrect 193
+Unique prediction: 20
+
+Layers= 10 NumNodes= 8 NumRepeats= 1
+correct 181
+incorrect 19
+Unique prediction: 27
+
+Layers= 10 NumNodes= 8 NumRepeats= 2
+correct 34
+incorrect 166
+Unique prediction: 9
+
+Layers= 10 NumNodes= 8 NumRepeats= 3
+correct 3
+incorrect 197
+Unique prediction: 9
+
+Layers= 10 NumNodes= 8 NumRepeats= 4
+correct 199
+incorrect 1
+Unique prediction: 8
+
+Layers= 10 NumNodes= 8 NumRepeats= 5
+correct 52
+incorrect 148
+Unique prediction: 12
+
+Layers= 10 NumNodes= 8 NumRepeats= 6
+correct 193
+incorrect 7
+Unique prediction: 13
+
+Layers= 10 NumNodes= 8 NumRepeats= 7
+correct 166
+incorrect 34
+Unique prediction: 12
+
+Layers= 10 NumNodes= 8 NumRepeats= 8
+correct 190
+incorrect 10
+Unique prediction: 13
+
+Layers= 10 NumNodes= 8 NumRepeats= 9
+correct 2
+incorrect 198
+Unique prediction: 3
+
+Layers= 10 NumNodes= 8 NumRepeats= 10
+correct 199
+incorrect 1
+Unique prediction: 8
+
+Layers= 10 NumNodes= 9 NumRepeats= 1
+correct 195
+incorrect 5
+Unique prediction: 13
+
+Layers= 10 NumNodes= 9 NumRepeats= 2
+correct 5
+incorrect 195
+Unique prediction: 6
+
+Layers= 10 NumNodes= 9 NumRepeats= 3
+correct 3
+incorrect 197
+Unique prediction: 6
+
+Layers= 10 NumNodes= 9 NumRepeats= 4
+correct 52
+incorrect 148
+Unique prediction: 18
+
+Layers= 10 NumNodes= 9 NumRepeats= 5
+correct 200
+incorrect 0
+Unique prediction: 2
+
+Layers= 10 NumNodes= 9 NumRepeats= 6
+correct 193
+incorrect 7
+Unique prediction: 12
+
+Layers= 10 NumNodes= 9 NumRepeats= 7
+correct 0
+incorrect 200
+Unique prediction: 2
+
+Layers= 10 NumNodes= 9 NumRepeats= 8
+correct 170
+incorrect 30
+Unique prediction: 8
+
+Layers= 10 NumNodes= 9 NumRepeats= 9
+correct 200
+incorrect 0
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 9 NumRepeats= 10
+correct 1
+incorrect 199
+Unique prediction: 3
+
+Layers= 10 NumNodes= 10 NumRepeats= 1
+correct 200
+incorrect 0
+Unique prediction: 5
+
+Layers= 10 NumNodes= 10 NumRepeats= 2
+correct 199
+incorrect 1
+Unique prediction: 3
+
+Layers= 10 NumNodes= 10 NumRepeats= 3
+correct 200
+incorrect 0
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 10 NumRepeats= 4
+correct 200
+incorrect 0
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 10 NumRepeats= 5
+correct 12
+incorrect 188
+Unique prediction: 5
+
+Layers= 10 NumNodes= 10 NumRepeats= 6
+correct 0
+incorrect 200
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 10 NumRepeats= 7
+correct 200
+incorrect 0
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 10 NumRepeats= 8
+correct 0
+incorrect 200
+Unique prediction: 1
+OVERFIT!
+
+Layers= 10 NumNodes= 10 NumRepeats= 9
+correct 0
+incorrect 200
+Unique prediction: 5
+
+Layers= 10 NumNodes= 10 NumRepeats= 10
+correct 194
+incorrect 6
+Unique prediction: 5
+
